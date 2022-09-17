@@ -58,4 +58,4 @@ hs_err_pid*
 replay_pid*
 
 ### MacOs
-.DS_Store
+*.DS_Store
