@@ -3,7 +3,9 @@
 
 Spring microservices demo project which includes cloud config server, service registry, two sample microservice projects, api gateway, hystrix dashboard with zipking & sleuth tracing.
 
-More about microservices on: https://www.kodingexpert.com/?p=331
+More about microservices on: https://www.kodingexpert.com/microservices-with-springboot/
+
+Cloud config repo on: https://github.com/gothamaha/config-server-spring-boot-apps
 
 
 
